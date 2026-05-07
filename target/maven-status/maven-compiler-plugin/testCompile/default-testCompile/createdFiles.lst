@@ -1,1 +1,8 @@
-com\practice\api\BookStoreGetBooksTest.class
+com\practice\api\config\ConfigManager.class
+com\practice\api\services\BookStoreApi.class
+com\practice\api\client\ApiClient.class
+com\practice\api\models\BooksResponse.class
+com\practice\api\endpoints\BookStoreEndpoints.class
+com\practice\api\tests\bookstore\BookStoreBooksTest.class
+com\practice\api\tests\base\BaseApiTest.class
+com\practice\api\models\Book.class

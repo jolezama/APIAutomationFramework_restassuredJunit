@@ -1,1 +1,8 @@
-H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\BookStoreGetBooksTest.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\tests\bookstore\BookStoreBooksTest.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\config\ConfigManager.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\models\Book.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\tests\base\BaseApiTest.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\client\ApiClient.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\services\BookStoreApi.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\endpoints\BookStoreEndpoints.java
+H:\Mis Documentos\Programming\ApiFramework_JavaMavenRestAsuredJUnit5\APIAutomationFramework_restassuredJunit\src\test\java\com\practice\api\models\BooksResponse.java
